@@ -9,4 +9,4 @@ This application allows you to count a number saved in solana testnet blockchain
 
 ## Vercel
 
-[Visit Vercel APP]().
+[Visit Vercel APP](https://solana-counter-hazel.vercel.app/).
