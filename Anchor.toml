@@ -1,0 +1,14 @@
+[features]
+seeds = false
+[programs.testnet]
+solana_counter = "8Tkf3PaBmF829sqkGTqUXvJvzQ8AcCC3WhBFBHhvLrQ6"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "testnet"
+wallet = "/Users/dante/.config/solana/id.json"
+
+[scripts]
+test = "yarn ts-mocha -t 1000000 tests/**/*.ts"
